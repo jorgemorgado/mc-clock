@@ -1,5 +1,9 @@
 # mc-clock
 
+## Preview
+
+![Mission Control Clock](https://raw.githubusercontent.com/wiki/jorgemorgado/mc-clock/mc-clock.png)
+
 ## Description
 
 Simple Mission Control clock. Can be used to display the current time on 3
